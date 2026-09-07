@@ -5,3 +5,4 @@ if (a < b) {
 } else {
     game.splash("NUMBER IS NEGATIVE")
 }
+
